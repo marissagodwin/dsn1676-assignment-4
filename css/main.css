@@ -20,6 +20,7 @@ html {
 h2 {
     color: maroon;
     text-align: center;
+    border-bottom: 2px solid;
 }
 
 dt {
@@ -29,4 +30,8 @@ dt {
 
 dl {
     text-align: center;
+}
+
+body {
+    background-color: #C0C0C0;
 }
